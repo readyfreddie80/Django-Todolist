@@ -1,2 +1,2 @@
-# Jango-Todolist
+# Django-Todolist
 HW2
